@@ -2,7 +2,7 @@
 
 **Howdy team! I've noticed this is the second proposal you've put forth for GrantShares! Now I'm very curious as to what about the Neo blockchain has caught your eye and intrigued the team?**
 
-Neo's exceptional suite of native tools empowers developers to craft sophisticated DApps. Its user-centric approach, from streamlined UX/DX systems to decentralized storage and identity solutions, sets it apart. This uniqueness is pivotal as blockchain applications grow intricate. Neo's open environment, regardless of coding preference, makes it the most adaptable platform.
+We had already started a similar project in the past and were surprised to see that Neo was interested in it. It captivated our interest and we are excited to continue the development.
 
 **As a part of this proposal I'm interested in hearing more about the types of templates the team intends to create? Also, are there examples of similar types of projects the NeoHub will replicate? Has the team built any dApps or written smart contracts on Neo?**
 
